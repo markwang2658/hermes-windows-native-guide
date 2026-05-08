@@ -105,7 +105,7 @@ You should see this output:
 
 Open your browser and visit `http://127.0.0.1:8787` to get started.
 
-![Hermes Agent Startup](../../screenshots/hermes-agent-start.png)
+![Hermes Agent Startup](/screenshots/hermes-agent-start.png)
 
 *Figure: Hermes Agent CLI startup screen showing available tools and model information*
 

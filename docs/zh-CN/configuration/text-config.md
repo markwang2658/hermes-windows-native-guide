@@ -42,7 +42,7 @@ version: "1.0"
 2. ✅ [下载 GLM-4.6V 模型](vision-config.md#step-2下载-glm-46v-模型)
 3. ✅ [启动 LM Studio Server](vision-config.md#step-3启动服务)
 
-![LM Studio 模型加载界面](../../screenshots/lm-studio-loading.png)
+![LM Studio 模型加载界面](/screenshots/lm-studio-loading.png)
 
 *图：LM Studio 界面 — Text 模式与 Vision 模式共用同一个 GLM-4.6V 实例*
 
@@ -114,7 +114,7 @@ hermes
 4. 定时任务 — Cron 调度自动化
 ```
 
-![文件摘要效果演示](../../screenshots/demo-text.png)
+![文件摘要效果演示](/screenshots/demo-text.png)
 
 *图：GLM-4.6V 文本处理效果 — 上传文件后自动摘要并回答问题*
 

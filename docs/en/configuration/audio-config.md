@@ -127,7 +127,7 @@ Expected results:
 - ✅ Voice is automatically transcribed to text
 - ✅ AI responds based on the transcribed content
 
-![Audio transcription demo](../../screenshots/demo-audio.png)
+![Audio transcription demo](/screenshots/demo-audio.png)
 
 *Figure: faster-whisper transcription — audio files are automatically converted to text with intelligent responses*
 

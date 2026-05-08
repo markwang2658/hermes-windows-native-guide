@@ -105,7 +105,7 @@ cd hermes-windows-native
 
 打开浏览器访问 `http://127.0.0.1:8787` 即可使用。
 
-![Hermes Agent 启动效果](../../screenshots/hermes-agent-start.png)
+![Hermes Agent 启动效果](/screenshots/hermes-agent-start.png)
 
 *图：Hermes Agent CLI 启动成功界面 — 显示可用工具和模型信息*
 

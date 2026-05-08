@@ -127,7 +127,7 @@ for seg in segments:
 - ✅ 语音自动转写为文字显示
 - ✅ AI 根据转写内容回复
 
-![语音转写效果演示](../../screenshots/demo-audio.png)
+![语音转写效果演示](/screenshots/demo-audio.png)
 
 *图：faster-whisper 语音转写效果 — 音频文件自动转为文字并智能回复*
 

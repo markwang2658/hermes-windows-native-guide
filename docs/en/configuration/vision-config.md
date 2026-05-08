@@ -61,7 +61,7 @@ version: "1.0"
 
 LM Studio is the simplest local model inference tool for Windows.
 
-![LM Studio loading screen](../../screenshots/lm-studio-loading.png)
+![LM Studio loading screen](/screenshots/lm-studio-loading.png)
 
 *Figure: LM Studio interface — search, download, and load local AI models*
 
@@ -129,7 +129,7 @@ Expected results:
 - ✅ Recognizes any text present
 - ✅ Answers questions about the image
 
-![Vision recognition demo](../../screenshots/demo-vision.png)
+![Vision recognition demo](/screenshots/demo-vision.png)
 
 *Figure: GLM-4.6V image recognition — upload a screenshot and get automatic analysis with Q&A*
 

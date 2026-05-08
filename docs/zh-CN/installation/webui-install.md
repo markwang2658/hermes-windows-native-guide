@@ -126,7 +126,7 @@ hermes webui --port 8788 --host 127.0.0.1
 - 右侧：工作区文件浏览器
 - 底部：输入框 + 控制按钮
 
-![Hermes WebUI 启动效果](../../screenshots/hermes-webui-start.png)
+![Hermes WebUI 启动效果](/screenshots/hermes-webui-start.png)
 
 *图：Hermes WebUI 三面板界面 — 左侧会话列表、中间聊天区域、右侧工作区*
 

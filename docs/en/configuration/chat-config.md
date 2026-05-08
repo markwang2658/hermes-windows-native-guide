@@ -122,7 +122,7 @@ Expected response includes:
 - ✅ Natural, fluent reply
 - ✅ No error messages
 
-![Hermes Agent chat interface](../../screenshots/hermes-agent-chat.png)
+![Hermes Agent chat interface](/screenshots/hermes-agent-chat.png)
 
 *Figure: Hermes Agent CLI chat — streaming output with Markdown rendering*
 
@@ -132,11 +132,11 @@ Expected response includes:
 2. Type any question
 3. Verify streaming output works correctly
 
-![Hermes WebUI chat interface](../../screenshots/hermes-webui-chat.png)
+![Hermes WebUI chat interface](/screenshots/hermes-webui-chat.png)
 
 *Figure: Hermes WebUI chat — three-panel layout, streaming output, syntax highlighting*
 
-![Demo chat conversation](../../screenshots/demo-chat.png)
+![Demo chat conversation](/screenshots/demo-chat.png)
 
 *Figure: Kimi K2.6 live chat demo — fluent Chinese conversation with multi-turn context*
 

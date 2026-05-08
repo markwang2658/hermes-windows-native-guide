@@ -17,7 +17,7 @@ version: "1.0"
 
 ## 一、架构概览
 
-![四种模式分流架构](../../screenshots/architecture-zh.png)
+![四种模式分流架构](/screenshots/architecture-zh.png)
 
 *图：Hermes 四种输入模式自动分流架构 — 根据输入类型智能选择 AI 模型*
 

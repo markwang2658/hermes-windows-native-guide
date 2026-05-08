@@ -122,7 +122,7 @@ hermes
 - ✅ 回复流畅自然
 - ✅ 无报错信息
 
-![Hermes Agent 聊天效果](../../screenshots/hermes-agent-chat.png)
+![Hermes Agent 聊天效果](/screenshots/hermes-agent-chat.png)
 
 *图：Hermes Agent CLI 聊天界面 — 流式输出、Markdown 渲染*
 
@@ -132,11 +132,11 @@ hermes
 2. 输入任意问题
 3. 观察流式输出是否正常
 
-![Hermes WebUI 聊天效果](../../screenshots/hermes-webui-chat.png)
+![Hermes WebUI 聊天效果](/screenshots/hermes-webui-chat.png)
 
 *图：Hermes WebUI 聊天界面 — 三面板布局、流式输出、代码高亮*
 
-![聊天对话效果演示](../../screenshots/demo-chat.png)
+![聊天对话效果演示](/screenshots/demo-chat.png)
 
 *图：Kimi K2.6 实际聊天效果 — 中文对话流畅、支持多轮上下文*
 

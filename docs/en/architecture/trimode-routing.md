@@ -17,7 +17,7 @@ version: "1.0"
 
 ## 1. Architecture Overview
 
-![Four-Mode Routing Architecture](../../screenshots/architecture-en.png)
+![Four-Mode Routing Architecture](/screenshots/architecture-en.png)
 
 *Figure: Hermes four-mode automatic routing architecture — selects AI model based on input type*
 

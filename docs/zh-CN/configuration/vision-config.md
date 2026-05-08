@@ -61,7 +61,7 @@ version: "1.0"
 
 LM Studio 是 Windows 上最简单的本地模型推理工具。
 
-![LM Studio 模型加载界面](../../screenshots/lm-studio-loading.png)
+![LM Studio 模型加载界面](/screenshots/lm-studio-loading.png)
 
 *图：LM Studio 界面 — 搜索、下载、加载本地 AI 模型*
 
@@ -129,7 +129,7 @@ auxiliary:
 - ✅ 能识别文字（如有）
 - ✅ 能回答关于图片的问题
 
-![图片识别效果演示](../../screenshots/demo-vision.png)
+![图片识别效果演示](/screenshots/demo-vision.png)
 
 *图：GLM-4.6V 图片识别效果 — 上传截图后自动识别并回答问题*
 

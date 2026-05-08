@@ -126,7 +126,7 @@ Open `http://127.0.0.1:8787` in your browser. You should see:
 - Right panel: Workspace file browser
 - Bottom bar: Input field + control buttons
 
-![Hermes WebUI running](../../screenshots/hermes-webui-start.png)
+![Hermes WebUI running](/screenshots/hermes-webui-start.png)
 
 *Figure: Hermes WebUI three-panel layout — session list on the left, chat area in the center, workspace on the right*
 

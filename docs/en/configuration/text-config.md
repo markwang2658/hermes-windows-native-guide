@@ -42,7 +42,7 @@ Text processing **reuses the vision model** (GLM-4.6V), so you must first comple
 2. ✅ [Download the GLM-4.6V model](vision-config.md#step-2-download-the-glm-46v-model)
 3. ✅ [Start LM Studio Server](vision-config.md#step-3-start-the-server)
 
-![LM Studio loading screen](../../screenshots/lm-studio-loading.png)
+![LM Studio loading screen](/screenshots/lm-studio-loading.png)
 
 *Figure: LM Studio interface — Text mode shares the same GLM-4.6V instance with Vision mode*
 
@@ -114,7 +114,7 @@ This is an AI Agent project (Hermes). Key features include:
 4. Scheduled tasks — Cron-based automation
 ```
 
-![File summarization demo](../../screenshots/demo-text.png)
+![File summarization demo](/screenshots/demo-text.png)
 
 *Figure: GLM-4.6V text processing — automatic file summarization and Q&A after upload*
 
