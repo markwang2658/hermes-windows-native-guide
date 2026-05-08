@@ -1,0 +1,99 @@
+# ============================================================
+# Hermes Windows Native Guide - Git Ignore Rules
+# ============================================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+*.egg
+
+# --- Build / Distribution ---
+dist/
+build/
+_site/
+.jekyll-cache/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# --- Screenshots (keep structure, ignore source files) ---
+screenshots/*.psd          # Photoshop 源文件
+screenshots/*.ai           # Illustrator 源文件
+screenshots/*.sketch       # Sketch 源文件
+screenshots/*.fig          # Figma 源文件
+screenshots/.*            # 隐藏文件
+
+# --- Temp Files ---
+*.tmp
+*.bak
+*.log
+*.swp
+*.swo
+*~
+
+# --- Environment & Secrets ---
+.env.local
+.env.production
+.env.staging
+*.pem
+*.key
+*.crt
+secrets.yaml
+credentials.json
+
+# --- Sensitive Data ---
+# 真实配置文件（只提交 example）
+config.yaml
+!examples/config.yaml.example
+.env
+!examples/.env.example
+
+# --- Node.js (if any) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Documentation Drafts ---
+docs/draft/
+docs/wip/
+*_draft.md
+*_wip.md
+
+# --- Archives ---
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# --- Large files (> 10MB) ---
+*.mp4
+*.mov
+*.avi
+*.exe
+*.msi
+*.dmg
