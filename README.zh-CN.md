@@ -1,6 +1,6 @@
 # 🚀 Hermes Windows Native Guide
 
-[![License: MIT](LICENSE)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform: Windows 10+](https://img.shields.io/badge/Windows-10%2B-0078D6?logo=windows&logoColor=white)]
 [![No Docker](https://img.shields.io/badge/No_Docker-required-green)]
 [![Docs: zh-CN](https://img.shields.io/badge/Docs-中文-blue)]
