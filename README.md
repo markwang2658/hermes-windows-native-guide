@@ -13,12 +13,12 @@
 
 ## ⚡ Quick Start
 
-\```powershell
+```powershell
 git clone https://github.com/markwang2658/hermes-windows-native.git
 cd hermes-windows-native
 .\install.ps1
 .\start.ps1
-\```
+```
 
 Then open http://127.0.0.1:8787
 
