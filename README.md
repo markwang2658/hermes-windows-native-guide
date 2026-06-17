@@ -11,6 +11,12 @@ Run **Hermes Agent + Hermes WebUI** in a real Windows-native layout with a share
 
 This repository is the documentation entry for the Windows-native integrated package. It is not a copy of the official `hermes-agent` README. Its job is to explain the native Windows layout, show that the package actually runs, and guide users from installation to first launch.
 
+## Integrated Versions
+
+- Hermes Agent package version: `0.16.0`
+- Hermes Agent source version: `v2026.6.5`
+- Hermes WebUI source version: `v0.51.454`
+
 ## What This Guide Covers
 
 - Windows-native integrated layout
