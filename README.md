@@ -1,12 +1,5 @@
 # Hermes Agent Windows Native Guide
 
-![Windows Native](./images/icon/windows-native.svg)
-![Python 3.11+](./images/icon/python-311.svg)
-![PowerShell](./images/icon/powershell.svg)
-![Guide](./images/icon/guide.svg)
-
-English | [简体中文](./README.zh-CN.md)
-
 # Notice
 
 This repository is no longer maintained.
