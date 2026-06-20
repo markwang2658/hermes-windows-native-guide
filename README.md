@@ -7,6 +7,30 @@
 
 English | [简体中文](./README.zh-CN.md)
 
+# Notice
+
+This repository is no longer maintained.
+
+All future updates have been consolidated into the main repository:
+
+## New Home
+[markwang2658/hermes-windows-native](https://github.com/markwang2658/hermes-windows-native)
+
+The new repository now includes everything in one place:
+
+- documentation
+- installation guides
+- startup scripts
+- Hermes Agent integration
+- Hermes WebUI integration
+- Windows native launcher files
+
+Please use the repository below for the latest version and all future updates:
+
+[https://github.com/markwang2658/hermes-windows-native](https://github.com/markwang2658/hermes-windows-native)
+
+This repository is kept only for historical reference.
+
 Run **Hermes Agent + Hermes WebUI** in a real Windows-native layout with a shared Python environment, dedicated launcher scripts, and visible startup logs.
 
 This repository is the documentation entry for the Windows-native integrated package. It is not a copy of the official `hermes-agent` README. Its job is to explain the native Windows layout, show that the package actually runs, and guide users from installation to first launch.
